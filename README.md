@@ -4,7 +4,7 @@
 
 📍 Quito, Ecuador
 
-📧 [andre.pradoch@outlook.com](mailto:andre.pradoch@outlook.com) · 💼 [LinkedIn](https://www.linkedin.com/in/andre-alexander-prado-chavez) · 💻 GitHub: (https://github.com/AlexPCh93) · 🌐 Portafolio: [COMPLETAR]
+📧 [andre.pradoch@outlook.com](mailto:andre.pradoch@outlook.com) · 💼 [LinkedIn](https://www.linkedin.com/in/andre-alexander-prado-chavez) · 💻 [GitHub](https://github.com/AlexPCh93)
 
 ![SAP](https://img.shields.io/badge/SAP%20SD%20y%20FI-0FAAFF?logo=sap&logoColor=white)
 ![SAP Business One](https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?logo=sap&logoColor=white)
