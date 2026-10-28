@@ -110,11 +110,11 @@ Busco un rol de **Business Analyst** donde O2C, contabilidad, SAP y análisis de
 
 ## Proyectos destacados
 
-| Proyecto | Qué resuelve | Tecnologías | Repo | Demo |
-| --- | --- | --- | --- | --- |
-| **Predicción de ventas semanales** | Regresión lineal para anticipar ventas de un retail y prueba de hipótesis sobre el efecto de las promociones | Python · Scikit-Learn · Jupyter Notebook | [COMPLETAR] | [COMPLETAR] |
-| **Ventas, ingreso y rentabilidad en Power BI** | Modelo con tabla de hechos y tres dimensiones, medidas DAX y field parameters para analizar producto, cliente y geografía | Power BI · DAX · ETL | [COMPLETAR] | [COMPLETAR] |
-| **Logística inversa (Ecuajugos)** | Flujo de aprobación de devoluciones y coordinación con el 3PL frente a altos fletes | SAP · 3PL | Corporativo, no público | — |
+| Proyecto | Qué resuelve | Tecnologías |
+| --- | --- | --- |
+| **Predicción de ventas semanales** | Regresión lineal para anticipar ventas de un retail y prueba de hipótesis sobre el efecto de las promociones | Python |
+| **Ventas, ingreso y rentabilidad en Power BI** | Modelo con tabla de hechos y tres dimensiones, medidas DAX y field parameters para analizar producto, cliente y geografía | Power BI · DAX · ETL |
+| **Logística inversa (Ecuajugos)** | Flujo de aprobación de devoluciones y coordinación con el 3PL frente a altos fletes | SAP |
 
 ---
 
